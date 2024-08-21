@@ -5,12 +5,9 @@
 - 💞️ I’m looking to collaborate on deep lerarning...
 - 📫 How to reach me: hariharasankar.k.a@gmail.com
 
-<!--# See My github stats
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=athiban-32&label=Profile%20views&color=orange&style=flat" alt="harisankar01" /> 
-</p>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=harisankar01&show_icons=true&theme=gotham)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harisankar01&layout=compact)](https://github.com/harisankar01)-->
+<!--# See My github stats-->
+<!--![Stats](https://github-readme-stats.vercel.app/api?username=harisankar01&show_icons=true&theme=gotham)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harisankar01&layout=compact)](https://github.com/harisankar01)-->
 
 
 
